@@ -29,3 +29,7 @@ Thumbs.db
 # Ignore build output directories
 bin/
 target/
+*.class
+*.log
+target/
+build/
